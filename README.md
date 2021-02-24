@@ -2,7 +2,7 @@
 Node js based CLI note app that takes in user arguments to create, view and remove notes into json file
 
 Create New Notes:
-Node app.js add --title=<userInput> --body=<userInput>
+Node app.js add --title=<"userInput"> --body=<userInput>
 
 List Notes :
 node app.js list
