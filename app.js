@@ -55,6 +55,8 @@ yargs.command({
         listNotes()
     }
 })
+
+
 //create read command
 yargs.command({
     command: 'read',
